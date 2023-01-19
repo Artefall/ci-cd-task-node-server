@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
     res.send("Great! If you read this, node server started successfuly!");
 });
 
-app.listen(3000, () => console.log("Server started"));
+app.listen(3000, () => console.log("The Server started"));
